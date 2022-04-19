@@ -1,4 +1,4 @@
-# erlang-pets-api
+# Example Erlang REST PETS API
 
 
 ## Run 
