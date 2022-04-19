@@ -1,0 +1,7 @@
+{application,quickrand,
+             [{description,"Quick Random Number Generation"},
+              {vsn,"2.0.4"},
+              {modules,[]},
+              {registered,[]},
+              {applications,[crypto,stdlib,kernel]},
+              {env,[{cache_size,65536}]}]}.
